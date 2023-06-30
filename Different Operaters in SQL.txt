@@ -1,0 +1,7 @@
+                                   
+                                         Different Operators in SQL:
+                                           1.Comparison Operator
+                                           2.Logical Operator
+                                           3.Arithmetic Operator
+                                           4.Aggregate Functions
+                                           5.String Operator

@@ -1,0 +1,7 @@
+                                 Remove Duplicate from the Table
+
+                                    DELETE FROM table_name
+                                    WHERE column_name NOT IN
+                                    (SELECT MIN(column_name)
+                                    FROM table_name
+                                    GROUP BY duplicate_columb_name);

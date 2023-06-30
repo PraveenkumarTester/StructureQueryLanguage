@@ -1,0 +1,6 @@
+                     SQL query to find Duplicate Record:
+
+                         SELECT column1, COUNT(*)
+                         FROM my_table
+                         GROUP BY column1
+                         HAVING COUNT(*) > 1;
